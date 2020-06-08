@@ -1,6 +1,6 @@
 <?php
 
-namespace Brexis\LaravelWorkflow;
+namespace Hpez\LaravelWorkflow;
 
 use Illuminate\Support\ServiceProvider;
 

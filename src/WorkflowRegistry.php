@@ -1,6 +1,6 @@
 <?php
 
-namespace Brexis\LaravelWorkflow;
+namespace Hpez\LaravelWorkflow;
 
 use Brexis\LaravelWorkflow\Events\WorkflowSubscriber;
 use Symfony\Component\EventDispatcher\EventDispatcher;
